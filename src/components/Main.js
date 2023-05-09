@@ -23,8 +23,6 @@ export default function SimpleContainer() {
         <Container maxWidth="lg" >
             <Box sx={{ bgcolor: '#cfe8fc', height: '100%', marginTop: '10px'}} >
               
-            <h1>Ciao Pippo!!!</h1>
-
                 <Grid 
                     container rowSpacing={1} 
                     columnSpacing={{ xs: 1, sm: 2, md: 3 }} 
